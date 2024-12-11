@@ -17,8 +17,8 @@ from langchain_openai import ChatOpenAI
 
 ### Streamlit UI ###
 
-st.set_page_config(page_title="Julenissen", page_icon="🎅")
-st.title("Chat med julenissen")
+st.set_page_config(page_title="Santa Claus", page_icon="🎅")
+st.title("Chat with Santa")
 st.image("./santa-liten.png", width=300)
 
 ## SECRETS
